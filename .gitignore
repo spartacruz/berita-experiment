@@ -134,42 +134,42 @@ Desktop.ini
 # Data Science / Machine Learning / NLP Specific Ignores
 # =========================================================================
 
-# Data files
-*.csv
-*.tsv
-*.dat
-*.json
-*.jsonl
-*.xml
-*.pkl
-*.pickle
-*.h5
-*.hdf5
-*.npy
-*.npz
-*.parquet
-*.feather
-*.sqlite
+# # Data files
+# *.csv
+# *.tsv
+# *.dat
+# *.json
+# *.jsonl
+# *.xml
+# *.pkl
+# *.pickle
+# *.h5
+# *.hdf5
+# *.npy
+# *.npz
+# *.parquet
+# *.feather
+# *.sqlite
 
-# Model weights and binaries
-*.pt
-*.pth
-*.safetensors
-*.bin
-*.model
-*.onnx
-*.pb
-*.tflite
-*.ckpt
+# # Model weights and binaries
+# *.pt
+# *.pth
+# *.safetensors
+# *.bin
+# *.model
+# *.onnx
+# *.pb
+# *.tflite
+# *.ckpt
 
-# Common data and output directories
-data/
-datasets/
-models/
-weights/
-checkpoints/
-logs/
-out/
-output/
-predictions/
-results/
+# # Common data and output directories
+# data/
+# datasets/
+# models/
+# weights/
+# checkpoints/
+# logs/
+# out/
+# output/
+# predictions/
+# results/
