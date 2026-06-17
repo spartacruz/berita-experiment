@@ -162,7 +162,7 @@ Desktop.ini
 # *.tflite
 # *.ckpt
 
-# # Common data and output directories
+# Common data and output directories
 # data/
 # datasets/
 # models/
@@ -170,6 +170,6 @@ Desktop.ini
 # checkpoints/
 # logs/
 # out/
-# output/
+output/
 # predictions/
 # results/
