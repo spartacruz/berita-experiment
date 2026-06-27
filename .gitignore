@@ -173,3 +173,5 @@ Desktop.ini
 output/
 # predictions/
 # results/
+
+.context/
